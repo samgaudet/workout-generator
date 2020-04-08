@@ -1,0 +1,110 @@
+{
+    "upper": {
+        "curls": {
+            "name": "Bicep Curls",
+            "min": 1,
+            "max": 5
+        },
+        "curl_holds": {
+            "name": "Curl Holds",
+            "min": 1,
+            "max": 5
+        },
+        "tricep_presses": {
+            "name": "Tricep Presses",
+            "min": 50,
+            "max": 250
+        },
+        "tricep_extensions": {
+            "name": "Tricep Extensions",
+            "min": 50,
+            "max": 250
+        },
+        "shrugs": {
+            "name": "Shrugs",
+            "min": 50,
+            "max": 250
+        }
+    },
+    "lower": {
+        "wall_sits": {
+            "name": "Wall Sits",
+            "min": 3,
+            "max": 10
+        },
+        "calf_raises": {
+            "name": "Calf Raises",
+            "min": 100,
+            "max": 300
+        },
+        "lunges": {
+            "name": "Lunges",
+            "min": 50,
+            "max": 200
+        },
+        "box_jumps": {
+            "name": "Box Jumps",
+            "min": 25,
+            "max": 100
+        },
+        "squats": {
+            "name": "Squats",
+            "min": 50,
+            "max": 250
+        }
+    },
+    "core": {
+        "situps": {
+            "name": "Sit-ups",
+            "min": 50,
+            "max": 250
+        },
+        "leg_lifts": {
+            "name": "Leg Lifts",
+            "min": 50,
+            "max": 250
+        },
+        "planks": {
+            "name": "Planks",
+            "min": 3,
+            "max": 10
+        },
+        "russian_twists": {
+            "name": "Russian Twists",
+            "min": 50,
+            "max": 250
+        },
+        "alphabet_lifts": {
+            "name": "Alphabet Leg Lifts",
+            "min": 1,
+            "max": 5
+        }
+    },
+    "wildcard": {
+        "pushups": {
+            "name": "Push-ups",
+            "min": 50,
+            "max": 250
+        },
+        "pullups": {
+            "name": "Pull-ups",
+            "min": 30,
+            "max": 150
+        },
+        "dips": {
+            "name": "Dips",
+            "min": 50,
+            "max": 200
+        },
+        "run": {
+            "name": "Run",
+            "min": 1,
+            "max": 5
+        },
+        "rest_day": {
+            "name": "Rest day!",
+            "min": null,
+            "max": null
+        }
+    }
+}
