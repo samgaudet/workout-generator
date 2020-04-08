@@ -3,108 +3,128 @@
         "curls": {
             "name": "Bicep Curls",
             "min": 1,
-            "max": 5
+            "max": 5,
+            "unit": "Sets"
         },
         "curl_holds": {
             "name": "Curl Holds",
             "min": 1,
-            "max": 5
+            "max": 5,
+            "unit": "Sets"
         },
         "tricep_presses": {
             "name": "Tricep Presses",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "tricep_extensions": {
             "name": "Tricep Extensions",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "shrugs": {
             "name": "Shrugs",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         }
     },
     "lower": {
         "wall_sits": {
             "name": "Wall Sits",
             "min": 3,
-            "max": 10
+            "max": 10,
+            "unit": "Minutes"
         },
         "calf_raises": {
             "name": "Calf Raises",
             "min": 100,
-            "max": 300
+            "max": 300,
+            "unit": "Reps"
         },
         "lunges": {
             "name": "Lunges",
             "min": 50,
-            "max": 200
+            "max": 200,
+            "unit": "Reps"
         },
         "box_jumps": {
             "name": "Box Jumps",
             "min": 25,
-            "max": 100
+            "max": 100,
+            "unit": "Reps"
         },
         "squats": {
             "name": "Squats",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         }
     },
     "core": {
         "situps": {
             "name": "Sit-ups",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "leg_lifts": {
             "name": "Leg Lifts",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "planks": {
             "name": "Planks",
             "min": 3,
-            "max": 10
+            "max": 10,
+            "unit": "Minutes"
         },
         "russian_twists": {
             "name": "Russian Twists",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "alphabet_lifts": {
             "name": "Alphabet Leg Lifts",
             "min": 1,
-            "max": 5
+            "max": 5,
+            "unit": "Sets"
         }
     },
     "wildcard": {
         "pushups": {
             "name": "Push-ups",
             "min": 50,
-            "max": 250
+            "max": 250,
+            "unit": "Reps"
         },
         "pullups": {
             "name": "Pull-ups",
             "min": 30,
-            "max": 150
+            "max": 150,
+            "unit": "Reps"
         },
         "dips": {
             "name": "Dips",
             "min": 50,
-            "max": 200
+            "max": 200,
+            "unit": "Reps"
         },
         "run": {
             "name": "Run",
             "min": 1,
-            "max": 5
+            "max": 5,
+            "unit": "Miles"
         },
         "rest_day": {
             "name": "Rest day!",
             "min": null,
-            "max": null
+            "max": null,
+            "unit": null
         }
     }
 }
